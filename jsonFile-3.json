@@ -1,1 +1,21 @@
 
+[
+    {
+        "name": "hadodo",
+        "player": 11,
+        "ballSize": 8.81
+    }, 
+    
+    {
+        "name": "carracing",
+        "player": 11,
+        "ballSize": 2.75
+    }, 
+    
+    {
+        "name": "danguli",
+        "player": 11,
+        "ballSize": 2.75
+    }
+
+]
